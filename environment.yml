@@ -1,0 +1,10 @@
+dependencies:
+  - python=3.9
+  - rich
+  - python-dotenv
+  - ipykernel
+  - gdal
+  - datacube
+  - pip
+  - pip:
+    - git+https://github.com/ceos-seo/odc-gee 
