@@ -1,10 +1,4 @@
 dependencies:
-  - holopy
   - numpy
-  - pandas
   - matplotlib
-  - requests
-  - ipython
-  - pip
-  - pip:
-    - git+https://github.com/GClunies/noaa_coops
+  - opencv
